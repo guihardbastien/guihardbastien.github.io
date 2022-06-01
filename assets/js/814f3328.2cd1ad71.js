@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguihardbastien=self.webpackChunkguihardbastien||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"TODO","permalink":"/blog/todo"}]}')}}]);
